@@ -1,4 +1,4 @@
-Wireless firing platform for synchronized pyrotechnic shows
+**Wireless firing platform for synchronized pyrotechnic shows**
 
 •	Field-validated beyond 1.5 km range by a professional pyrotechnics team; architected a dual-MCU ESP32-S3 + ESP32 transmitter with Wi-Fi Mesh + LoRa 433 MHz redundant communication and automatic RF failover.
 
