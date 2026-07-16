@@ -7,3 +7,5 @@
 •	Designed the power system: USB-C 20V power delivery negotiation, high-voltage ignition, 5S2P Li-Ion pack with BMS protection and current limiting.
 
 •	Built a custom touchscreen human-machine interface (HMI) using LVGL/SquareLine Studio, a custom PCB, and Fusion 360 mechanical design with laser-cut faceplate and 3D-printed enclosure.
+
+https://www.youtube.com/watch?v=9s4RAcGpiqk
