@@ -8,4 +8,5 @@
 
 •	Built a custom touchscreen human-machine interface (HMI) using LVGL/SquareLine Studio, a custom PCB, and Fusion 360 mechanical design with laser-cut faceplate and 3D-printed enclosure.
 
+**Demo video**
 https://www.youtube.com/watch?v=9s4RAcGpiqk
