@@ -1,5 +1,7 @@
 **Wireless firing platform for synchronized pyrotechnic shows**
 
+<img width="1279" height="841" alt="image" src="https://github.com/user-attachments/assets/6765acc2-8d24-4e52-aa7d-7ed2f2907fc9" />
+
 •	Field-validated beyond 1.5 km range by a professional pyrotechnics team; architected a dual-MCU ESP32-S3 + ESP32 transmitter with Wi-Fi Mesh + LoRa 433 MHz redundant communication and automatic RF failover.
 
 •	Implemented GPS-synchronized firing with Manual, Automatic and Sequential modes, plus continuity testing and signal-quality measurement.
